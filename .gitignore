@@ -1,0 +1,7 @@
+.env
+browser_data/
+target/
+gmail_agent.db
+__pycache__/
+*.pyc
+.venv/
